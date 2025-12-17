@@ -2,6 +2,9 @@
 
 Este repositório contém os arquivos e a modelagem desenvolvida para o **Prêmio Turim de Investimentos 2025**, organizado pela Turim MFO. O projeto consiste em uma solução completa de gestão patrimonial, dividida em duas frentes: uma tese de investimento em Equity (Stock Picking) e uma estratégia de Alocação de Ativos (Asset Allocation) para um perfil Ultra-High-Net-Worth (UHNWI).
 
+<img width="1012" height="609" alt="image" src="https://github.com/user-attachments/assets/ce1e71db-95a3-4a97-9d23-7c18c58d55b1" />
+
+
 * **`Modelagem_Financeira.xlsx`**: O modelo completo em Excel, contendo a otimização de portfólio, simulação de fluxo de caixa de 60 anos, cálculo de impostos e rebalanceamento dinâmico.
 * **`Apresentacao_Case.pdf`**: O deck de apresentação defendendo a tese e a estratégia de alocação.
 
